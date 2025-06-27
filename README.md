@@ -2,7 +2,7 @@
 
 Welcome to my **Training Dairy** — a daily log and report of my hands-on training experience during college. 
 
-##Day 1
+## Day 1
 Orientation was organized by CSE department in college auditorium, in which there was breifing about the CSE department and  the future path of our degrees and changes made in our curriculum.
 
  I learned to work with **Linux (Ubuntu)** using two methods:
@@ -13,8 +13,8 @@ Orientation was organized by CSE department in college auditorium, in which ther
 ---
 ## 🛠️ Installation Steps 
 
-###For installing Ubuntu we have to install following 
-####Method 1 - Using Virtual Box
+### For installing Ubuntu we have to install following 
+#### Method 1 - Using Virtual Box
 
 1. **Installation of Oracle VirtualBox**  
    
