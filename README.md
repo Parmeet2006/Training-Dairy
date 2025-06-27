@@ -51,6 +51,46 @@ Orientation was organized by CSE department in college auditorium, in which ther
 
      ![Untitled](https://github.com/user-attachments/assets/77b9a592-a587-4c1a-8174-e04e7a6f9dfc)
 
+   - Installation Finished, press  Finish
+
+
+
+     ![Untitled](https://github.com/user-attachments/assets/38d3360e-b20d-4cd0-996a-c5f996ce13c9)
+
+
+   - Then a virtual box will start as shown
+
+
+
+     ![image](https://github.com/user-attachments/assets/940937dd-0550-4027-9415-3fca9672de68)
+
+
+   - Installation of Ubuntu ISO image
+
+
+     ![Untitled](https://github.com/user-attachments/assets/91fdd545-5952-4cdd-92a8-bf67192caaab)
+
+
+   - After installing the ISO image, click the NEW option in the Virtual box.
+     Then Select Name, Folder and ISO image
+     Then press Next
+
+
+     ![Untitled](https://github.com/user-attachments/assets/2544390c-e348-4dae-b0ae-ab972e85c13f)
+
+
+
+   - Then enter the usename and password 
+     Then press Next
+
+
+     ![Untitled](https://github.com/user-attachments/assets/8c824524-4c8e-45a3-8a29-cd49fb302d97)
+
+
+  - Now allocate desired RAM (Minimum 2GB)
+  - Also create a Virtual hard disk (minimum 20GB)
+  - 
+
 
 3. **Set Up C++ Extension**  
    For compiling and running C++ code in Linux.
