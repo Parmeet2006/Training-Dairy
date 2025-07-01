@@ -34,7 +34,7 @@ The session provided valuable insights to help students align their academic goa
 ### For installing Ubuntu we have to install following 
 #### Method 1 - Using Virtual Box
 
-1. **Installation of Oracle VirtualBox**
+#### 1. **Installation of Oracle VirtualBox**
    - To install VirtualBox, visit the official site Virtualbox and download the latest version for windows 
    ![Untitled](https://github.com/user-attachments/assets/766cf09f-58eb-4abb-8317-78b05db085af)
    
@@ -110,16 +110,25 @@ The session provided valuable insights to help students align their academic goa
   - Now press start
 
 
-3. **Set Up C++ Extension**  
+- **Set Up C++ Extension**  
    For compiling and running C++ code in Linux.
    - Make sure to install VSCode on prior basis
    - Download Microsoft C/C++ Extension
 
-     ![image](https://github.com/user-attachments/assets/2f2089a7-620f-47f5-aedb-e3bd269d5f35)
+![image](https://github.com/user-attachments/assets/ecf2170e-ac30-41a4-9658-19d91f3a0480)
+     
 
 
-5. **Create a Bootable USB with Rufus**  
+#### 2. **Dual Booting Using USB**  
    Use it to install Ubuntu via dual boot on your actual machine.
+   - Connect a USB drive (min 16 GB storage) with your system
+   - Now download Rufus to create the USB dive bootable. You can download desired version but recommended is highlighted as follows:
+
+     ![Untitled](https://github.com/user-attachments/assets/f5dc57bb-896f-415d-9c77-728d23999ab8)
+   - Open the Rufus software and select the desired options
+     <img src="![image](https://github.com/user-attachments/assets/53eb905f-2f8c-4af1-9648-2f5eee11d53b)
+" alt="Rufus Setup Screenshot" width="300"/>
+
 
 ---
 
