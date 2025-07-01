@@ -1,10 +1,28 @@
-# 📝 Training-Dairy
+# 📝 Training-Dairy [TRCS201]
 
 Welcome to my **Training Dairy** — a daily log and report of my hands-on training experience during college. 
 
-## Day 1
-Orientation was organized by CSE department in college auditorium, in which there was breifing about the CSE department and  the future path of our degrees and changes made in our curriculum.
 
+## 📚 Syllabus Overview:
+
+| Module | Topic                                            | Key Skills Developed                                                                                                                               |
+| ------ | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**    | **Fundamentals of Unix/Linux & BASH Essentials** | Build a solid conceptual foundation of Unix/Linux, get hands-on with system installation, and learn how to use the Linux command line effectively. |
+| **2**    | **PC & Network Troubleshooting**                 | Equip students with essential skills to diagnose and resolve common hardware and networking issues in a practical environment.                     |
+| **3**    | **Introduction to HTML & Web Basics**            | Learn to build basic web pages using HTML.                                                                                                         |
+| **4**    | **Introduction to GIT and Version Control**      | Learn and apply Git through CLI in a Linux environment.                                                                                            |
+
+---
+
+
+## Day 1-Introduction and Installation of Linux(Ubuntu) [25-6-25]
+An orientation was organized by the CSE Department in the college auditorium, featuring a briefing on the department, the future scope of our degrees, and recent changes made to the curriculum.
+The session provided valuable insights to help students align their academic goals with industry expectations.
+
+![linux-ar21](https://github.com/user-attachments/assets/a2a6f892-7065-4a9b-9a1e-de73d30670bd)
+
+### Linux is an open-source operating system based on Unix, known for its stability, security, and flexibility. It powers everything from servers and smartphones to supercomputers and is widely used in development, system administration, and cybersecurity.
+ 
  I learned to work with **Linux (Ubuntu)** using two methods:
 
 - 🖥️ Oracle VirtualBox
@@ -89,13 +107,18 @@ Orientation was organized by CSE department in college auditorium, in which ther
 
   - Now allocate desired RAM (Minimum 2GB)
   - Also create a Virtual hard disk (minimum 20GB)
-  - 
+  - Now press start
 
 
 3. **Set Up C++ Extension**  
    For compiling and running C++ code in Linux.
+   - Make sure to install VSCode on prior basis
+   - Download Microsoft C/C++ Extension
 
-4. **Create a Bootable USB with Rufus**  
+     ![image](https://github.com/user-attachments/assets/2f2089a7-620f-47f5-aedb-e3bd269d5f35)
+
+
+5. **Create a Bootable USB with Rufus**  
    Use it to install Ubuntu via dual boot on your actual machine.
 
 ---
