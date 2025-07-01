@@ -122,13 +122,23 @@ The session provided valuable insights to help students align their academic goa
 #### 2. **Dual Booting Using USB**  
    Use it to install Ubuntu via dual boot on your actual machine.
    - Connect a USB drive (min 16 GB storage) with your system
+   - Install Ubuntu ISO image as given above 
    - Now download Rufus to create the USB dive bootable. You can download desired version but recommended is highlighted as follows:
 
      ![Untitled](https://github.com/user-attachments/assets/f5dc57bb-896f-415d-9c77-728d23999ab8)
    - Open the Rufus software and select the desired options
-     <img src="![image](https://github.com/user-attachments/assets/53eb905f-2f8c-4af1-9648-2f5eee11d53b)
-" alt="Rufus Setup Screenshot" width="300"/>
 
+
+
+
+
+     ![Untitled](https://github.com/user-attachments/assets/097709c4-67d0-4e9e-add0-d2c69bfbcf68)
+
+
+     - After selecting press start and processing will start
+     - After processing close rufus and now our pendrive ready
+     - Now restart the system and open boot settings and select USB drive for booting
+     - Now your Ubuntu will start and you are ready to use
 
 ---
 
